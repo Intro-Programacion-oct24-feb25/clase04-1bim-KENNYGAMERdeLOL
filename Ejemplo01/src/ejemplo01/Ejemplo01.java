@@ -16,6 +16,7 @@ public class Ejemplo01 {
      */
     public static void main(String[] args) {
         // Ejemplo 
+        // no puedo cambiar la variable por que ya esta asignada
         String nombreEstudiante;
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
